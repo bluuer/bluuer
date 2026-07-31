@@ -1,4 +1,4 @@
-<div align="center"> <img align="center" width="150" height="25" src="https://komarev.com/ghpvc/?username=connieboolynski&abbreviated=true" alt=" ">
+<div align="center"> <img align="center" width="110" height="18" src="https://komarev.com/ghpvc/?username=connieboolynski&abbreviated=true" alt=" ">
 
 </div>
 
